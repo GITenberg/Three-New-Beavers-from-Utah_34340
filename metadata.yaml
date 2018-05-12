@@ -1,0 +1,37 @@
+_repo: Three-New-Beavers-from-Utah_34340
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Durrant, Stephen David
+    aliases:
+    - Durrant, Stephen D.
+    - Durrant, S. D. (Stephen David)
+    birthdate: 1902
+    deathdate: 1975
+    gutenberg_agent_id: '35240'
+    url: http://www.gutenberg.org/2009/agents/35240
+  - agent_name: Crane, Harold S.
+    gutenberg_agent_id: '36964'
+    url: http://www.gutenberg.org/2009/agents/36964
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Mammals
+- Animal
+gutenberg_issued: '2010-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34340'
+  lccn: '49045048'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'American beaver -- Utah -- Classification'
+- !lcsh 'Beavers -- Classification'
+title: Three New Beavers from Utah
+url: http://www.gutenberg.org/ebooks/34340
